@@ -2,7 +2,7 @@
 
 Project demonstrates simple usage for Kafka by using Producer to send events, and Consumer to receive events.
 
-###Steps to test:
+### Steps to test:
 - start the kafka environment
   >bin/zookeeper-server-start.sh config/zookeeper.properties
   
